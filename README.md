@@ -1,5 +1,7 @@
 # Truth table calculator
 
+<img src="./__READMEimages__/display.png" alt="Truth table calculator display">
+
 ## 1. Basic ideas
 
 1. 输入解析（Analyze input str） ->
