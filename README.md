@@ -89,3 +89,10 @@ g++ binaryTree+recursion.cpp && ./a.out
 <img src="./__READMEimages__/recursive_cal_w.jpg" alt="Recursive calculation workflow" width="430">
 
 
+## 4. Reference
+
+basic: [http://hwdong.com/ds/](http://hwdong.com/ds/)
+
+`stack+postfix.cpp`: [http://blog.csdn.net/iSpeller/article/details/8009628?locationNum=2&fps=1](http://blog.csdn.net/iSpeller/article/details/8009628?locationNum=2&fps=1)
+
+`binaryTree+recursion.cpp`: [http://blog.csdn.net/patrick_lyle/article/details/63250699](http://blog.csdn.net/patrick_lyle/article/details/63250699)
